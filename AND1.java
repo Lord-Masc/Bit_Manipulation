@@ -7,5 +7,8 @@ public class AND1 {
         System.out.println(5|3);
         System.out.println(5^3);
         System.out.println(~5);
+
+
+        System.out.println( 5& 3);
     }
 }
