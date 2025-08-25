@@ -17,7 +17,7 @@ public class Basic_operation1 {
         }else return 1;
     }
 
-    public static int setIthBit(int n, int i ){
+    public static int setIthBit(int n, int i ){ // this is function is used to set Bit
         int bitMap = 1<<i;
         return n|bitMap;
     }
